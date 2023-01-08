@@ -11,8 +11,8 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "观一中校友会5 QQ群：3060242196"  # 左侧滑栏介绍
-sidebar-about-description: "观一中校友会5 QQ群：3060242196" 
+sidebar-about-description: "观一中校友会5               QQ群：3060242196"  # 左侧滑栏介绍
+sidebar-about-description: "观一中校友会5 11 QQ群：3060242196" 
 sidebar-avatar: /img/about-BY-gentle.jpg      # 左侧滑栏头像 use absolute URL, seeing it's used in both `/` and `/about/`
 
 
