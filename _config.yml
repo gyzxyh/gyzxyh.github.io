@@ -58,14 +58,14 @@ kramdown:
 # disqus_username: liweimin1996
 
 # Gitalk
-gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: 8bf9f6dcfa9638136442                           #生成的clientID
-  clientSecret: 4bb9a7fc7918372afe9ffa0a16530a53db2ddf16    #生成的clientSecret
-  repo: liweimin1996.github.io    #仓库名称
-  owner: liweimin1996    #github用户名
-  admin: liweimin1996
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: false    #是否开启Gitalk评论
+#  clientID: 8bf9f6dcfa9638136442                           #生成的clientID
+#  clientSecret: 4bb9a7fc7918372afe9ffa0a16530a53db2ddf16    #生成的clientSecret
+#  repo: liweimin1996.github.io    #仓库名称
+#  owner: liweimin1996    #github用户名
+#  admin: liweimin1996
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
@@ -95,13 +95,13 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "异绮帖",
-        href: "https://akinokaede.com/"
-    },
-    {
-        title: "Apple",
-        href: "https://apple.com"
-    }
-]
+#friends: [
+#   {
+#       title: "异绮帖",
+#       href: "https://akinokaede.com/"
+#   },
+#   {
+#       title: "Apple",
+#        href: "https://apple.com"
+#    }
+#]
