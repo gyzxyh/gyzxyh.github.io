@@ -1,26 +1,26 @@
 # Site settings
-title: 李为民的博客 | Min blog
-SEOTitle: 李为民的博客 | Min blog喜马拉雅听书有声小说大全郭德纲相声唱吧百度Qq微信微博pps腾讯新闻优酷我狗网易云暴风行UC浏览快播放器pptv影音乐视频土豆91手机助手地图yy新浪凤凰360安全卫士搜狐bbc懒人空间邮箱贴当陌
+title: 观一中校友会1
+SEOTitle: 观一中校友会2
 header-img: img/post-bg-desk.jpg
-email: 404notfound@qq.com
-description: "李为民的博客 | Min blog人工智能AI大数据挖掘人云计算安全计算机科学技术喜马拉雅听书有声小说大全郭德纲相声唱吧百度Qq微信微博pps腾讯新闻优酷我狗网易云暴风行UC浏览快播放器pptv影音乐视频土豆91手机助手地图yy新浪凤凰360安全卫士搜狐bbc懒人空间邮箱贴当陌"
-keyword: "AI人工智能, 电影, 游戏, 音乐, 计算机科学, 大数据云安全"
-url: "https://liweimin1996.github.io"          # your host, for absolute URL
+email: 3060242196@qq.com
+description: "观一中校友会3"
+keyword: "观一中校友会4"
+url: "https://gyzxyh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/liweimin1996/liweimin1996.github.io.git" # you code repository
+#github_repo: "https://github.com/liweimin1996/liweimin1996.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "天生乐天派人工智能AI大数据挖掘人云计算安全计算机科学技术喜马拉雅听书有声小说大全郭德纲相声唱吧百度Qq微信微博pps腾讯新闻优酷我狗网易云暴风行UC浏览快播放器pptv影音乐视频土豆91手机助手地图yy新浪凤凰360安全卫士搜狐bbc懒人空间邮箱贴当陌"
+sidebar-about-description: "观一中校友会5"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     CyberpunkV
+#weibo_username:     CyberpunkV
 #zhihu_username:     lixiaoyao233
-github_username:    liweimin1996
+#github_username:    liweimin1996
 #twitter_username:   liweimin1996
 
 
@@ -59,7 +59,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 8bf9f6dcfa9638136442                           #生成的clientID
   clientSecret: 4bb9a7fc7918372afe9ffa0a16530a53db2ddf16    #生成的clientSecret
   repo: liweimin1996.github.io    #仓库名称
