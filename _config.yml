@@ -1,6 +1,6 @@
 # Site settings
-title: 观一中校友会1  #左上角标题
-SEOTitle: 观一中校友会2  #tab标题
+title: 观一中校友会  #左上角标题
+SEOTitle: 观一中校友会  #tab标题
 header-img: img/post-bg-desk.jpg
 email: 3060242196@qq.com
 description: "观一中校友会3"
@@ -11,7 +11,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "观一中校友会5             1  QQ群：3060242196"  # 左侧滑栏介绍
+sidebar-about-description: "观一中校友会   QQ总群：258927439"  # 左侧滑栏介绍
 sidebar-avatar: /img/about-BY-gentle.jpg      # 左侧滑栏头像 use absolute URL, seeing it's used in both `/` and `/about/`
 
 
