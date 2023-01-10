@@ -16,13 +16,13 @@ sidebar-avatar: /img/school_icon.jpg      # 左侧滑栏头像 use absolute URL,
 
 
 
- SNS settings
-RSS: false
-weibo_username:     CyberpunkV
+#SNS settings
+#RSS: false
+#weibo_username:     CyberpunkV
 #zhihu_username:     lixiaoyao233
 #github_username:    liweimin1996
 #twitter_username:   liweimin1996
-qq_username:     258927439
+#qq_username:     258927439
 
 
 
