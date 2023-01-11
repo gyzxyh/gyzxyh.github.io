@@ -10,8 +10,8 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 #github_repo: "https://github.com/liweimin1996/liweimin1996.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "观一中校友会   QQ总群：258927439"  # 左侧滑栏介绍
+sidebar: true                  # whether or not using Sidebar.
+sidebar-about-description: "QQ总群：258927439"  # 左侧滑栏介绍
 sidebar-avatar: /img/school_icon.jpg      # 左侧滑栏头像 use absolute URL, seeing it's used in both `/` and `/about/`
 
 
