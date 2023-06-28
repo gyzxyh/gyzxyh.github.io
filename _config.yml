@@ -1,10 +1,10 @@
 # Site settings
-title: 观一中校友会 #左上角标题
-SEOTitle: 观一中校友会  #tab标题
+title: 观一励志宣讲团 #左上角标题
+SEOTitle: 观一励志宣讲团  #tab标题
 header-img: img/schoolPic9.jpg
 email: 3060242196@qq.com
-description: "观一中校友会3"
-keyword: "观一中校友会4"
+description: "观一励志宣讲团3"
+keyword: "观一励志宣讲团4"
 url: "https://gyzxyh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 #github_repo: "https://github.com/liweimin1996/liweimin1996.github.io.git" # you code repository
